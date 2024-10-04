@@ -1,0 +1,184 @@
+body {
+  width: 480px;
+  margin: 0 auto;
+  font: #393d41;
+  font-family: Open sans;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  text-align: center;
+}
+
+
+header img {
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+header div {
+  background-color: black;
+}
+ h1 {
+  color: #25a2c3 ;
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin: 1em 5em; 
+  } 
+
+section {
+    background: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 1em;
+    line-height: 1.5
+}
+  section p {
+    margin-left: 3em;
+    margin-right: 3em;
+    padding-bottom: 2em;
+    padding-top: 2;
+}
+
+button {
+    background-color: #f04c2f ;
+    color: white;
+    margin-bottom: 2em;
+    font-size: large;
+    font-family: Mont serrat bold;
+    font-weight: bold;
+    width: 180px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+h2 {
+    color: #34b0c9;
+    font-weight: bold;
+    font-family: Montserrat;
+    font-weight: bold;
+    line-height: 1.5;
+}
+ #all {
+    padding-top: 3em;
+ }
+ #workwant{
+    padding-top: 1em;
+ }
+
+#pofall {
+ padding-top: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-bottom: 1em;
+}
+
+#pofwork {
+  padding-top: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-bottom: 1em;
+}
+#notebook {
+    border-radius: 50%;
+}
+#role {
+    padding-top: 1em;
+}
+#pofrole {
+    padding-top: 1em;
+}
+
+#freework {
+    padding-top: 1em;
+}
+#poffree {
+    padding-top: 1em;
+}
+#backgroundgara {
+    background-color: #e22d0e;
+    margin-top: 2em;
+}
+
+#guarantee  {
+    color: white;
+    margin: 2em;
+    padding-top: 2em;
+    
+}
+#three{
+    padding-bottom: 2em;
+}
+#backgroundgara p {
+    color: white;
+
+}
+#mario {
+    padding-top: 1em;
+}
+
+#ceo {
+    font-size: small;
+    padding-bottom: 3em;
+}
+ #mypc {
+     margin-right: 2em;
+     margin-left: 2em;
+     padding-bottom: 2em;
+    margin-top: 3em;
+     border: solid 1px #dee1e3;
+ }
+ #blackpc {
+    margin-right: 2em;
+     margin-left: 2em;
+     padding-bottom: 2em;
+     margin-top: 2em;
+     border: solid 1px #dee1e3;
+ } 
+
+ #workmate {
+    margin-right: 2em;
+     margin-left: 2em;
+     padding-bottom: 2em;
+     margin-top: 2em;
+     border: solid 1px #dee1e3;
+ }
+
+ footer {
+    background-color: #25a2c3;
+    margin-top: 4em;
+   padding-bottom: 3em;
+ }
+ footer h2 {
+    color: white;
+    padding-top: 1em;
+    font-size: 40px;
+    padding-bottom: 1em;
+ }
+ footer hr {
+    color: white ;
+    margin-right: 7em ;
+    margin-left: 7em;
+    margin-top: 1em;
+    
+ }
+
+ #copy {
+    margin-top: 2em;
+    padding-bottom: 1em;
+ }
+ 
+footer p {
+    color: #c8e7f0;
+}
+#pixal {
+    color: #c8e7f0;
+}
+
+#contact a {
+    color: #c8e7f0;
+}
+     
+ 
+
+
