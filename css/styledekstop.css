@@ -1,0 +1,54 @@
+body {
+    width: 1920px;
+    margin: 0 auto;
+    font: #393d41;
+    font-family: Open sans;
+    font-size: 1.2rem;
+    line-height: 1.65;
+}
+
+header img {
+    margin-left: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em
+}
+
+header div {
+    background-color: black;
+}
+h1 {
+    color: #25a2c3 ;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 1em 5em; 
+    text-align: center;
+    } 
+    section {
+        background: url(../images/banner.jpg);
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+       padding-top: 10em;
+       padding-bottom: 10em;
+        line-height: 1.5
+    }
+
+    button {
+        background-color: #f04c2f ;
+        color: white;
+        margin-bottom: 2em;
+        font-size: large;
+        font-family: Mont serrat bold;
+        font-weight: bold;
+        width: 180px;
+        height: 50px;
+        border-radius: 5px;
+        border: none;
+    }
+    section p {
+        margin-left: 3em;
+        margin-right: 3em;
+        padding-bottom: 2em;
+        padding-top: 2;
+    }
