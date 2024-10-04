@@ -23,21 +23,24 @@ h1 {
     font-size: 1.5em;
     margin: 1em 5em; 
     text-align: center;
+    padding-top: 1em;
     } 
     section {
         background: url(../images/banner.jpg);
-        background-size: cover;
+       background-size: contain;
         background-position: center;
         text-align: center;
-       padding-top: 10em;
+       padding-top: 5em;
        padding-bottom: 10em;
+       
         line-height: 1.5
     }
 
     button {
         background-color: #f04c2f ;
         color: white;
-        margin-bottom: 2em;
+        margin-bottom: 3em;
+        margin-top: 3em;
         font-size: large;
         font-family: Mont serrat bold;
         font-weight: bold;
@@ -46,9 +49,65 @@ h1 {
         border-radius: 5px;
         border: none;
     }
-    section p {
-        margin-left: 3em;
-        margin-right: 3em;
-        padding-bottom: 2em;
-        padding-top: 2;
+
+    h2 {
+        color: #34b0c9;
+        font-weight: bold;
+        font-family: Montserrat;
+        font-weight: bold;
+        line-height: 1.5;
     }
+
+    #notebook {
+        border-radius: 50%;
+        width: 600px;
+        display: inline-block;
+        margin: 5em 5em 5em 15em;
+    }
+    
+    
+  #display {
+    display: inline-block;
+        vertical-align: top;
+        margin-top: 5em;
+  }
+
+ 
+
+ #all {
+    padding-top: 3em;
+    margin-bottom: 1em;
+ }
+
+ #workwant {
+    padding-top: 1em;
+    margin-bottom: 1em;
+ }
+
+ #role {
+    padding-top: 2em;
+    margin-bottom: 1em;
+ }
+
+ #freework {
+    padding-top: 2em;
+    margin-bottom: 1em;
+ }
+
+ #backgroundgara {
+    background-color: #e22d0e;
+}
+
+#guarantee  {
+    color: white;
+    margin: 5em;
+    padding-top: 5em;
+}
+
+#backgroundgara p {
+    color: white;
+    text-align: center;
+}
+#mario {
+
+}
